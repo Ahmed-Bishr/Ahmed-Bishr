@@ -3,7 +3,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with **1.5 years experience in cross multiplatform (CMP) development**, and currently a Master's student in Artificial Intelligence & Machine Learning. My skills span AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
+I'm a passionate software developer with 1.5 years of experience in cross multiplatform (CMP) development, and currently a Master's student in Artificial Intelligence & Machine Learning. My skills span AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
+
+My ultimate goal is to become a Fullstack AI Engineer, mastering everything from training AI models to managing infrastructure and delivering end-to-end products.
 
 > ⚡ _P.S. Most of my best wizardry happens in private repos... so if my contribution graph looks quiet, just know I’m secretly busy building cool things behind the scenes! 🤫_
 

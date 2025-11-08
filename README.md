@@ -6,6 +6,8 @@
 
 I'm a passionate software developer with **1.5 years experience in cross multiplatform (CMP) development**, and currently a Master's student in Artificial Intelligence & Machine Learning. My skills span AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
 
+> ⚡ _P.S. Most of my best wizardry happens in private repos... so if my contribution graph looks quiet, just know I’m secretly busy building cool things behind the scenes! 🤫_
+
 - 🌱 Currently studying: Deep Learning, PyTorch, advanced mathematics for ML, and modern AI tools
 - 👯 Looking to collaborate on: Open source, cross-platform projects, and AI/ML initiatives
 - 💬 Ask me about: Python, Java, Kotlin, C, cross-platform apps, AI, ML, PyTorch, math for ML, CMP development, automation, or contributing to open source!
@@ -23,10 +25,9 @@ I'm a passionate software developer with **1.5 years experience in cross multipl
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-
 ## 📚 Education
 
-- 🎓 **Bachelor's Degree 
+- 🎓 **Bachelor's Degree**  
 - 🎓 **Post Graduate Diploma in Computer Science**  
 - 🎓 **Master's Degree in Artificial Intelligence & Machine Learning**  
   _Arab Academy for Science, Technology & Maritime Transport_
@@ -44,7 +45,6 @@ I'm a passionate software developer with **1.5 years experience in cross multipl
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Bishr)
-
 
 ---
 

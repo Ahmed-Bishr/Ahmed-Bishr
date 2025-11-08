@@ -22,7 +22,6 @@ I'm a passionate software developer and Master's student in Artificial Intellige
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 
 ## 📚 Education
@@ -43,10 +42,6 @@ I'm a passionate software developer and Master's student in Artificial Intellige
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Bishr)
 
-## 🚩 Pinned Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Bishr&repo=your-best-repo)](https://github.com/Ahmed-Bishr/your-best-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Bishr&repo=another-cool-repo)](https://github.com/Ahmed-Bishr/another-cool-repo)
 
 ---
 

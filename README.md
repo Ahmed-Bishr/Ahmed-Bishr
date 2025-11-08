@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Ahmed Bishr
 
-<img align="right" src="https://avatars.githubusercontent.com/u/your_uid?v=4" width="150"/>
 
 ## 🚀 About Me
 

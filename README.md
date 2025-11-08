@@ -44,11 +44,10 @@ I'm a passionate software developer with **1.5 years experience in cross multipl
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Bishr&margin-w=5&theme=algolia)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Bishr&theme=tokyonight&hide_border=true)
 
-## 🏆 Fancy Activity
+## 🏆 Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Bishr&theme=magma&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Bishr&margin-w=5&theme=algolia)
-![Ahmed Bishr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Bishr&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Bishr&theme=tokyonight&hide_border=true)
+![Ahmed Bishr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Bishr&show_icons=true&theme=magma&hide_border=true)
 
 ---
 

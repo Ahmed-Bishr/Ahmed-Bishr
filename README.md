@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer and Master's student in Artificial Intelligence & Machine Learning. My interests focus on AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
+I'm a passionate software developer with **1.5 years experience in cross multiplatform (CMP) development**, and currently a Master's student in Artificial Intelligence & Machine Learning. My skills span AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
 
 - 🌱 Currently studying: Deep Learning, PyTorch, advanced mathematics for ML, and modern AI tools
 - 👯 Looking to collaborate on: Open source, cross-platform projects, and AI/ML initiatives
-- 💬 Ask me about: Python, Java, Kotlin, C, cross-platform apps, AI, ML, PyTorch, math for ML, automation, or contributing to open source!
+- 💬 Ask me about: Python, Java, Kotlin, C, cross-platform apps, AI, ML, PyTorch, math for ML, CMP development, automation, or contributing to open source!
 
 ## 💻 Tech Stack
 
@@ -22,11 +22,14 @@ I'm a passionate software developer and Master's student in Artificial Intellige
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+
 
 ## 📚 Education
 
-🎓 Master's Degree in Artificial Intelligence & Machine Learning
+- 🎓 **Bachelor's Degree 
+- 🎓 **Post Graduate Diploma in Computer Science**  
+- 🎓 **Master's Degree in Artificial Intelligence & Machine Learning**  
+  _Arab Academy for Science, Technology & Maritime Transport_
 
 ## 📫 Contact Me
 

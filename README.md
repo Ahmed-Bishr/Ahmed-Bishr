@@ -46,7 +46,6 @@ I'm a passionate software developer with **1.5 years experience in cross multipl
 ## 🏆 Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Bishr&theme=tokyonight&hide_border=true)
-![Ahmed Bishr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Bishr&show_icons=true&theme=magma&hide_border=true)
 
 ---
 

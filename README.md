@@ -36,7 +36,8 @@ My ultimate goal is to become a Fullstack AI Engineer, mastering everything from
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahmed-bishr-3bb0ab1ab)
-[![Yahoo](https://img.shields.io/badge/Email-red?logo=yahoo&style=flat-square)](mailto:bishrahmed845@yahoo.com)
+[![Yahoo Mail](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white&style=flat-square)](mailto:bishrahmed845@yahoo.com)
+
 
 ## 🏆 GitHub Stats
 

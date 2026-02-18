@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Bishr 👋
+# Hi there, I'm Ahmed Bishr 👋  
 
 ## 🤖 Aspiring AI Engineer & Researcher
 
@@ -8,6 +8,8 @@ While I have a background in software development, my true passion lies in the m
 
 I believe the best way to master AI is to understand the "why" behind the equations, not just the "how" of the code.
 
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Bishr&color=blue&style=flat-square)
 ---
 
 ## 🔭 Future Vision & Goals
@@ -84,7 +86,6 @@ I believe the best way to master AI is to understand the "why" behind the equati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahmed-bishr-3bb0ab1ab)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedbishr12345@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Bishr&color=blue&style=flat-square)]
 
 ---
 
